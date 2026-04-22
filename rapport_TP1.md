@@ -1,7 +1,7 @@
 # TP1 — Analyse d'un algorithme en fonctionnement
 **Matière :** Les fondamentaux de l'IA  
 **Niveau :** Bachelor 3  
-**Auteur :** Ayoub  
+**Auteur :** Cabanes Antoine
 
 ---
 
